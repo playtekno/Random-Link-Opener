@@ -83,8 +83,3 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 Jika merasa script ini berguna, silakan support donasi seikhlasnya di [Link Berikut](https://lynk.id/hendygital/s/e8n3rm42rj39).
 ```
-
-### Penjelasan Tambahan:
-- **Cocok Untuk**: Menambahkan bagian ini memberikan konteks lebih lanjut tentang jenis proyek yang dapat memanfaatkan skrip ini. Ini membantu pengguna memahami aplikasi potensial dari kode yang telah Anda buat.
-
-Anda bisa menyesuaikan lebih lanjut bagian ini sesuai dengan ide spesifik yang Anda miliki.
